@@ -20,21 +20,9 @@ module.exports = {
       colors: {
         light: {
           DEFAULT: colors.zinc[100],
-          primary: colors.blue[500],
-          secondary: colors.gray[500],
-          success: colors.green[500],
-          danger: colors.red[500],
-          warning: colors.yellow[500],
-          info: colors.cyan[500],
         },
         dark: {
           DEFAULT: colors.zinc[900],
-          primary: colors.blue[300],
-          secondary: colors.gray[300],
-          success: colors.green[300],
-          danger: colors.red[300],
-          warning: colors.yellow[300],
-          info: colors.cyan[300],
         },
       },
     },
