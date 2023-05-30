@@ -12,6 +12,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:vue/vue3-recommended',
+    'plugin:vue-pug/vue3-recommended',
     'plugin:tailwindcss/recommended',
   ],
   // plugins: ['@typescript-eslint', 'vue', 'tailwindcss'],
