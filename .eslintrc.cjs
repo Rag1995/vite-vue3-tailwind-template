@@ -37,6 +37,7 @@ module.exports = {
     
     '@typescript-eslint/no-var-requires': 'off',
 
+    'indent': ['error', 2],
     'no-undef': 'off',
     'vue/multi-word-component-names': 'off',
   },
